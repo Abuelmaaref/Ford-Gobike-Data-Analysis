@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The dataset that I am doing analysis on is Ford GoBike dataset about trips recordings of year 2019 february month. Which has records for each trip in details, Time, location, user type, gender, age, and trip duration.
+> The dataset that I am doing analysis on is Ford GoBike dataset about trips recordings of year 2019 february month. Which has records for each trip in details, Time, location, user type, gender, age, and trip duration [DATA SET FOUND HERE](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv).
 
 ## Summary of Findings
 
